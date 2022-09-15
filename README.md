@@ -2,4 +2,4 @@
 - 👀 I’m interested in 🔥 XOC 🔥, SCCA racing 🏎️, bench grind 💪
 - 🌱 I’m currently studying DataScience
 - 💞️ I’m looking to collaborate on challenges
-- 📫 https://urlgeni.us/telegram/poom
+- 📫 https://t.me/poompoomski
