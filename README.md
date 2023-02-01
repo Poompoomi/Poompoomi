@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Poompoomi
-- 👀 I’m interested in 🔥 XOC 🔥, SCCA racing 🏎️, bench grind 💪
-- 🌱 I’m currently studying DataScience
+- 👀 I’m interested in 🔥 Overclocking 🔥, SCCA Racing 🏎️, Natural Hypertrophy 💪
+- 🌱 BSc Computer Science with DataScience focus
 - 💞️ I’m looking to collaborate on challenges
 - 📫 https://t.me/poompoomski
