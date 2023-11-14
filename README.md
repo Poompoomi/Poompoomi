@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Poompoomi
-- 👀 I’m interested in 🔥 Overclocking 🔥, SCCA Racing 🏎️, Natural Hypertrophy 💪
+- 👀 I’m interested in React, Next.js, Python and SQL
 - 🌱 BSc Computer Science with DataScience focus
-- 💞️ I’m looking to collaborate on challenges
+- 💞️ Send me a project!
 - 📫 https://t.me/poompoomski
+- 🔥 Overclocking 🔥, SCCA Racing 🏎️, Natural Hypertrophy 💪
