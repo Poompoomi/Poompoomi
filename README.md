@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Poompoomi
-- 👀 I’m interested in React, Next.js, Python and SQL
+- 👀 I’m interested in React, Typescript, Next.js, Python and SQL
 - 🌱 BSc Computer Science with DataScience focus
 - 💞️ Send me a project!
 - 📫 https://t.me/poompoomski
